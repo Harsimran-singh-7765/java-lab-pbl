@@ -6,8 +6,25 @@
 
 A robust and user-friendly desktop application built with Java Swing. MindEscape serves as a cohesive "Game Hub" that consolidates four unique, standalone Java games into a single, visually appealing, and easy-to-navigate launcher.
 
-![MindEscape Game Hub](https://i.imgur.com/your-screenshot-url.png)
-*(Recommended: Replace the URL above with a screenshot of your main game selection screen)*
+---
+
+No problem. A two-row table is a clean way to show 7 images. We can put four on the top row and three on the bottom.
+
+Here is the updated Markdown code for your `README.md` file.
+
+---
+
+##  Screenshots
+
+Here are some screenshots of the "MindEscape" hub in action.
+
+| Welcome Screen | Game Selection | AI Riddle Game |
+|:---:|:---:|:---:|
+| <img src="public/1.png" alt="MindEscape Welcome Screen" width="280"> | <img src="public/2.png" alt="Game Selection Menu" width="280"> | <img src="public/3.png" alt="AI Riddle Game" width="280"> |
+
+| BlackJack Game | High Stakes Game | Sudoku Game |
+|:---:|:---:|:---:|
+| <img src="public/4.png" alt="BlackJack Game" width="280"> | <img src="public/5.png" alt="High Stakes Showdown" width="280"> | <img src="public/6.png" alt="Sudoku Game" width="280"> |
 
 ---
 
